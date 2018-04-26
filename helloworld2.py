@@ -1,0 +1,6 @@
+#!/usr/bin/python
+# -*- coding: cp936 -*-
+
+print "Hello,world!";
+
+print "ÄãºÃ£¬ÖÐ¹ú"
